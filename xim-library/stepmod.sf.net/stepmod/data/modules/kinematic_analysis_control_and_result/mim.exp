@@ -1,0 +1,10 @@
+(*
+   $Id: mim.exp,v 1.1 2011/12/30 00:24:06 raira Exp $
+   N - ISO/CD-TS - 10303- kinematic_analysis_control_and_result - EXPRESS MIM*)
+(* UNDER DEVELOPMENT *)
+SCHEMA Kinematic_analysis_control_and_result_mim;
+
+USE FROM Kinematic_motion_representation_mim;
+USE FROM kinematic_analysis_control_and_result_schema;
+
+END_SCHEMA;

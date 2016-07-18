@@ -1,0 +1,7 @@
+(*
+   $Id: mim.exp,v 1.1 2011/12/30 00:23:54 raira Exp $
+   ISO TC184/SC4/WG12 N6939 - ISO/TS 10303-1800 Support resource - EXPRESS MIM
+*)
+SCHEMA Support_resource_mim;
+	USE FROM support_resource_schema;
+END_SCHEMA;
